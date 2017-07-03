@@ -34,7 +34,13 @@ h2 {
 	font-size: 140%;
 }
 
+#socialBar{
+	display: flex;
+	margin: 10%;
+}
+
 #tweetBar{
 	margin-right: 5%;
 	margin-left: 50%;
+	display: flex;
 }
