@@ -2,6 +2,7 @@ header {
 	margin-left: 15%;
 	margin-right: 15%;
 	margin-top: 10%;
+	margin-bottom: 10%;
 }
 
 h1 {
@@ -31,4 +32,9 @@ h2 {
 #why {
 	font-family: 'Raleway', sans-serif;
 	font-size: 140%;
+}
+
+#tweetBar{
+	margin-right: 5%;
+	margin-left: 50%;
 }
