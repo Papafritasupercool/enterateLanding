@@ -2,7 +2,7 @@ header {
 	margin-left: 15%;
 	margin-right: 15%;
 	margin-top: 10%;
-	margin-bottom: 10%;
+	margin-bottom: 5%;
 }
 
 h1 {
@@ -13,6 +13,10 @@ h1 {
 h2 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 140%;
+}
+
+a {
+	color: black;
 }
 
 .donate {
@@ -29,6 +33,12 @@ h2 {
     font-weight: bold;
 }
 
+.iconito{
+	margin-left: 15%;
+	margin-right: 15%;
+
+}
+
 #why {
 	font-family: 'Raleway', sans-serif;
 	font-size: 140%;
@@ -36,7 +46,9 @@ h2 {
 
 #socialBar{
 	display: flex;
-	margin: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 10%;
 }
 
 #tweetBar{
